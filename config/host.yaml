@@ -1,0 +1,4 @@
+host:
+    test: http://test.teyuntong.net/
+    dev:  http://dev.teyuntong.net/
+    release: http://release.teyuntong.net/

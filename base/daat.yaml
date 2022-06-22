@@ -1,0 +1,16 @@
+#coding:utf-8
+login:
+    cellPhone: 17788556666
+    certificateType: 0
+    channelCode: 1
+    cid: 1104a8979274946efd9
+    clientId: 1104a8979274946efd9
+    clientSign: 22
+    clientVersion: 6131
+    deviceId: 1104a8979274946efd9
+    goodsDeviceId: 1104a8979274946efd9
+    osVersion: 10
+    password: a058f0a8d58fb095a7a4f12a89c85cc7
+    phoneType: PBDT00
+    sign: bd333cf13133802cc60e7b5ddb59f650
+    ttkn: time

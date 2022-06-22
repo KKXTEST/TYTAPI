@@ -1,0 +1,18 @@
+
+method:
+       m0: get
+       m1: post
+       m2: put
+       m3: delete
+headers:
+      header: {"content-type": "application/x-www-form-urlencoded"}
+#     Server: nginx
+#     Date: Fri, 15 Apr 2022 07:00:04 GMT
+#     Content-Type: text/html; charset=UTF-8
+#     Content-Length: 34
+#     Connection: keep-alive
+#     Access-Control-Allow-Credentials: true
+#     Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+signKey :
+      singkey: "1345~opo-4%"
+        

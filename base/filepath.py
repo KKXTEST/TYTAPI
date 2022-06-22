@@ -1,0 +1,23 @@
+#ecoding:utf-8:
+import os
+#打印工作目录
+path=os.getcwd()
+print(path)
+#打印当前程序和文件之间相对路径相对路径
+path1=os.path.realpath(path)
+print(path1)
+#返回绝对路径
+path2=os.path.abspath('../config/')
+print(path2)
+#统一用/表示路径分割
+path3=os.path.normpath(path)
+print(path3)
+#返回目录名称
+path5=os.path.dirname(path)
+print(path5)
+#返回最后路径名称
+path6=os.path.basename(path)
+print(path6)
+#判断对应路径或文件是否存在
+path7=os.path.exists('../config/')
+print(path7)
